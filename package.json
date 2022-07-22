@@ -1,0 +1,23 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de platzi de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmoral/platziAsynchronous.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "platzi"
+  ],
+  "author": "Andrea Mora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acmoral/platziAsynchronous/issues"
+  },
+  "homepage": "https://github.com/acmoral/platziAsynchronous#readme"
+}
